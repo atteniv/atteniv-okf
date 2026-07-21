@@ -28,6 +28,118 @@
           "kind": "tags"
         }
       ]
+    },
+    "Architecture": {
+      "label": "Architecture",
+      "fields": [
+        {
+          "key": "title",
+          "kind": "string",
+          "required": true
+        },
+        {
+          "key": "tags",
+          "kind": "tags"
+        }
+      ]
+    },
+    "Persona": {
+      "label": "Persona",
+      "fields": [
+        {
+          "key": "title",
+          "kind": "string",
+          "required": true
+        },
+        {
+          "key": "tags",
+          "kind": "tags"
+        }
+      ]
+    },
+    "Presence Method": {
+      "label": "Presence Method",
+      "fields": [
+        {
+          "key": "title",
+          "kind": "string",
+          "required": true
+        },
+        {
+          "key": "tags",
+          "kind": "tags"
+        }
+      ]
+    },
+    "Product": {
+      "label": "Product",
+      "fields": [
+        {
+          "key": "title",
+          "kind": "string",
+          "required": true
+        },
+        {
+          "key": "tags",
+          "kind": "tags"
+        }
+      ]
+    },
+    "Reference": {
+      "label": "Reference",
+      "fields": [
+        {
+          "key": "title",
+          "kind": "string",
+          "required": true
+        },
+        {
+          "key": "tags",
+          "kind": "tags"
+        }
+      ]
+    },
+    "Access Channel": {
+      "label": "Access Channel",
+      "fields": [
+        {
+          "key": "title",
+          "kind": "string",
+          "required": true
+        },
+        {
+          "key": "tags",
+          "kind": "tags"
+        }
+      ]
+    },
+    "Company": {
+      "label": "Company",
+      "fields": [
+        {
+          "key": "title",
+          "kind": "string",
+          "required": true
+        },
+        {
+          "key": "tags",
+          "kind": "tags"
+        }
+      ]
+    },
+    "Integration": {
+      "label": "Integration",
+      "fields": [
+        {
+          "key": "title",
+          "kind": "string",
+          "required": true
+        },
+        {
+          "key": "tags",
+          "kind": "tags"
+        }
+      ]
     }
   }
 }

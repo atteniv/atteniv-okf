@@ -1,7 +1,3 @@
----
-type: index
-title: Concepts
----
 # Concepts
 
 Domain glossary for the terms used throughout this bundle.
