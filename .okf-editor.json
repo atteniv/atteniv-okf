@@ -1,0 +1,33 @@
+{
+  "$schema": "https://raw.githubusercontent.com/atteniv/okf-editor/main/schemas/okf-editor.schema.json",
+  "types": {
+    "Capability": {
+      "label": "Capability",
+      "fields": [
+        {
+          "key": "title",
+          "kind": "string",
+          "required": true
+        },
+        {
+          "key": "tags",
+          "kind": "tags"
+        }
+      ]
+    },
+    "Concept": {
+      "label": "Concept",
+      "fields": [
+        {
+          "key": "title",
+          "kind": "string",
+          "required": true
+        },
+        {
+          "key": "tags",
+          "kind": "tags"
+        }
+      ]
+    }
+  }
+}
