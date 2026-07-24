@@ -23,11 +23,9 @@ architecture described throughout.
 
 # Notes & Open Items
 
-* **Hostname inconsistency** — source docs reference the Nexus public surface as
-  `nexus.atteniv.com`, `nexus.atteniv.app`, and `atteniv.com`. This bundle uses
-  `nexus.atteniv.com` as the canonical public host; confirm before external
-  publication. Flagged in [nexus-vision-web](../access/nexus-vision-web.md) and
-  [rest-api](../access/rest-api.md).
+* **Hostnames (resolved)** — the user-facing Nexus Vision site is
+  `nexus.atteniv.com`; the REST API, developer portal, and MCP server are served
+  from `nexus.atteniv.app`. The company/marketing site is `atteniv.com`.
 * Internal design material is dated 2026-07-12 and marked "Draft for review";
   roadmap tiers reflect intended, not necessarily shipped, functionality.
 

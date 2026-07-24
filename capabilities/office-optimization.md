@@ -3,6 +3,8 @@ type: Capability
 title: Office Utilization & Optimization
 description: Real-time and historical analytics on actual office utilization, enabling data-driven real-estate, staffing, and policy decisions.
 tags: [capability, optimization, pillar-4, real-estate, analytics]
+cta_label: See Atteniv office analytics
+cta_url: https://atteniv.com/office-optimization?utm_source=nexus-vision&utm_medium=callout&utm_campaign=office-optimization
 timestamp: 2026-07-20T00:00:00Z
 ---
 

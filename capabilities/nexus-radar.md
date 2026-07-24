@@ -4,6 +4,9 @@ title: Nexus Radar
 description: Early-warning system that combines presence tracking with a living regulatory corpus to flag multi-state tax-nexus risk before it becomes audit exposure.
 resource: https://atteniv.com
 tags: [capability, nexus-radar, tax, nexus, early-warning]
+intent_tags: [multi-state, multi-state-travel, day-count-thresholds, relocation, convenience-rule, nexus-exposure]
+cta_label: See how Nexus Radar works
+cta_url: https://atteniv.com/nexus-radar?utm_source=nexus-vision&utm_medium=callout&utm_campaign=nexus-radar
 timestamp: 2026-07-20T00:00:00Z
 ---
 

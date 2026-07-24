@@ -10,6 +10,11 @@ The `atteniv-nexus` MCP server exposes the Nexus corpus to
 [Model Context Protocol](../concepts/model-context-protocol.md)-capable agents —
 Claude, Cursor, or any other — with a single config block.
 
+# Endpoint
+
+`https://nexus.atteniv.app/api/mcp` — a stateless streamable-HTTP endpoint,
+authenticated with an API token (`nxs_live_…`).
+
 # What It Enables
 
 * Browse states, complexity map, state profiles, and legislation.
@@ -22,4 +27,4 @@ footprint-aware grounded answers.
 
 # Citations
 
-[1] [Nexus Vision — API and developer access](https://nexus.atteniv.com)
+[1] [Nexus Vision — API and developer access](https://nexus.atteniv.app/developers)

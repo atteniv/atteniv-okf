@@ -3,6 +3,8 @@ type: Capability
 title: Advanced Hybrid Scheduling
 description: Create and manage hybrid work schedules at scale, enforced against a system rather than a calendar invitation.
 tags: [capability, scheduling, pillar-3, hybrid]
+cta_label: See Atteniv hybrid scheduling
+cta_url: https://atteniv.com/hybrid-scheduling?utm_source=nexus-vision&utm_medium=callout&utm_campaign=hybrid-scheduling
 timestamp: 2026-07-20T00:00:00Z
 ---
 
