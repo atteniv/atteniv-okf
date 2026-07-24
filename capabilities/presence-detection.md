@@ -3,6 +3,9 @@ type: Capability
 title: Presence Detection
 description: Non-intrusive detection of actual physical office presence using existing endpoint security infrastructure.
 tags: [capability, presence, pillar-1, network, privacy-first]
+intent_tags: [presence-tracking, day-count-thresholds, multi-state-travel, rto-compliance]
+cta_label: See how Atteniv tracks presence
+cta_url: https://atteniv.com/presence-detection?utm_source=nexus-vision&utm_medium=callout&utm_campaign=presence-detection
 timestamp: 2026-07-20T00:00:00Z
 ---
 

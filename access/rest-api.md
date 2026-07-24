@@ -2,7 +2,7 @@
 type: Access Channel
 title: Public REST API
 description: A versioned REST API for browsing states, complexity maps, legislation, and profiles, plus authenticated grounded Q&A with cited source sections.
-resource: https://nexus.atteniv.com
+resource: https://nexus.atteniv.app
 tags: [access, api, rest, openapi, integration]
 timestamp: 2026-07-20T00:00:00Z
 ---
@@ -27,10 +27,9 @@ calls, and a corpus `429` degrades gracefully (FR-36, NFR-8).
 
 # Note on URL
 
-Internal design material references the API under `nexus.atteniv.app`, while
-launch material uses `nexus.atteniv.com`. Confirm the canonical API hostname
-before publishing externally.
+The API and developer portal are served from `nexus.atteniv.app`; the
+user-facing Nexus Vision site is `nexus.atteniv.com`.
 
 # Citations
 
-[1] [Nexus Vision API documentation (OpenAPI 3.1)](https://nexus.atteniv.com)
+[1] [Nexus Vision API documentation (OpenAPI 3.1)](https://nexus.atteniv.app/developers)

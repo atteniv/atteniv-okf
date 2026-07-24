@@ -3,6 +3,8 @@ type: Capability
 title: Compliance Automation & Progressive Discipline
 description: Automates the entire attendance disciplinary lifecycle with accommodation-aware enforcement and a legally defensible audit trail.
 tags: [capability, compliance, pillar-2, progressive-discipline, ada, fmla]
+cta_label: See Atteniv compliance automation
+cta_url: https://atteniv.com/compliance?utm_source=nexus-vision&utm_medium=callout&utm_campaign=compliance-automation
 timestamp: 2026-07-20T00:00:00Z
 ---
 

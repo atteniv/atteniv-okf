@@ -23,7 +23,7 @@ determine accurate PA-source compensation.
 
 # Why It Matters to Atteniv
 
-COE-aggressor states (NY / DE / PA / NE) invert the usual sourcing logic — days
+COE-aggressor states such as NY, PA, DE, and NE invert the usual sourcing logic — days
 worked at home can still be taxable — so the
 [early-warning engine](../nexus-radar/early-warning-engine.md) flags them for a
 dedicated workflow rather than clearing them. See [tax nexus](tax-nexus.md).

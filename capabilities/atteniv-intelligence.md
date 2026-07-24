@@ -3,6 +3,8 @@ type: Capability
 title: Atteniv Intelligence
 description: The AI capability layer on top of the Atteniv data platform, providing natural-language querying and proactive insight across every tier.
 tags: [capability, ai, intelligence, natural-language, tiers]
+cta_label: Explore Atteniv Intelligence
+cta_url: https://atteniv.com/intelligence?utm_source=nexus-vision&utm_medium=callout&utm_campaign=atteniv-intelligence
 timestamp: 2026-07-20T00:00:00Z
 ---
 

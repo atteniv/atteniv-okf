@@ -12,6 +12,18 @@
         {
           "key": "tags",
           "kind": "tags"
+        },
+        {
+          "key": "intent_tags",
+          "kind": "tags"
+        },
+        {
+          "key": "cta_label",
+          "kind": "string"
+        },
+        {
+          "key": "cta_url",
+          "kind": "string"
         }
       ]
     },

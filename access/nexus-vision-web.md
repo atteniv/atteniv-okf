@@ -28,9 +28,8 @@ for grounded Q&A (20 states at launch), with the general corpus as fallback.
 
 # Note on URL
 
-Launch material references the public site under both `nexus.atteniv.com` and
-`atteniv.com`. Confirm the canonical production hostname before publishing this
-bundle externally.
+The canonical user-facing host is `nexus.atteniv.com`. The API and MCP server
+are served separately from `nexus.atteniv.app`.
 
 # Citations
 
