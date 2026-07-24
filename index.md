@@ -8,6 +8,7 @@ architecture, integrations, and domain concepts that surround them.
 
 # Contents
 
+* [Getting started](README.md) - Set up the OKF Editor, GitHub synchronization, OpenRouter AI, and optional Perplexity research.
 * [company](company/index.md) - Who Atteniv is and the problem it exists to solve.
 * [products](products/index.md) - The two shipping products: the Atteniv platform and Nexus Vision.
 * [capabilities](capabilities/index.md) - The core functional surfaces of the Atteniv platform.
